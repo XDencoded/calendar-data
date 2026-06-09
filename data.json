@@ -1,1 +1,16 @@
-
+{
+  "themes": [
+    { "id": "sport", "name": "СПОРТ", "color": "#05334A" },
+    { "id": "creativity", "name": "ТВОРЧЕСТВО", "color": "#710004" },
+    { "id": "science", "name": "НАУКА", "color": "#6B9EBD" }
+  ],
+  "events": [
+    { "id": "1", "date": "2026-05-01", "title": "Мир, труд, май", "themeId": "sport" },
+    { "id": "2", "date": "2026-05-02", "title": "Мероприятие 2", "themeId": "creativity" },
+    { "id": "3", "date": "2026-05-03", "title": "Мероприятие 3", "themeId": "science" },
+    { "id": "4", "date": "2026-05-09", "title": "9 Мая", "themeId": "sport" },
+    { "id": "5", "date": "2026-05-16", "title": "Мероприятие 16", "themeId": "creativity" },
+    { "id": "6", "date": "2026-05-21", "title": "Мероприятие 21", "themeId": "science" },
+    { "id": "7", "date": "2026-05-24", "title": "Мероприятие 24", "themeId": "sport" }
+  ]
+}
