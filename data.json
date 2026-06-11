@@ -1,16 +1,17 @@
 {
   "themes": [
-    { "id": "sport", "name": "СПОРТ", "color": "#05334A" },
-    { "id": "creativity", "name": "ТВОРЧЕСТВО", "color": "#710004" },
-    { "id": "science", "name": "НАУКА", "color": "#6B9EBD" }
+    { "id": "1", "name": "ДОБРОВОЛЬЧЕСТВО", "color": "#6B9EBD" },
+    { "id": "2", "name": "МЕДИА", "color": "#05334A" },
+    { "id": "3", "name": "МОЛОДЁЖКА", "color": "#B40023" },
+    { "id": "4", "name": "ПАТРИОТИКА", "color": "#710004" }
   ],
   "events": [
-    { "id": "1", "date": "2026-05-01", "title": "Мир, труд, май", "themeId": "sport" },
-    { "id": "2", "date": "2026-05-02", "title": "Мероприятие 2", "themeId": "creativity" },
-    { "id": "3", "date": "2026-05-03", "title": "Мероприятие 3", "themeId": "science" },
-    { "id": "4", "date": "2026-05-09", "title": "9 Мая", "themeId": "sport" },
-    { "id": "5", "date": "2026-05-16", "title": "Мероприятие 16", "themeId": "creativity" },
-    { "id": "6", "date": "2026-05-21", "title": "Мероприятие 21", "themeId": "science" },
-    { "id": "7", "date": "2026-05-24", "title": "Мероприятие 24", "themeId": "sport" }
+    { "id": "1", "date": "2026-05-01", "title": "Мир, труд, май", "themeId": [1,2] },
+    { "id": "2", "date": "2026-05-02", "title": "Мероприятие 2", "themeId": [2] },
+    { "id": "3", "date": "2026-05-03", "title": "Мероприятие 3", "themeId": [3] },
+    { "id": "4", "date": "2026-05-09", "title": "9 Мая", "themeId": [1] },
+    { "id": "5", "date": "2026-05-16", "title": "Мероприятие 16", "themeId": [2] },
+    { "id": "6", "date": "2026-05-21", "title": "Мероприятие 21", "themeId": [3] },
+    { "id": "7", "date": "2026-05-24", "title": "Мероприятие 24", "themeId": [2,3,4] }
   ]
 }
