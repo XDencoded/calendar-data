@@ -13,6 +13,15 @@
     { "id": "4", "date": "2026-05-09", "title": "9 Мая", "themeId": ["1", "3"] },
     { "id": "5", "date": "2026-05-16", "title": "Мероприятие 16", "themeId": ["2"] },
     { "id": "6", "date": "2026-05-21", "title": "Мероприятие 21", "themeId": ["3"] },
-    { "id": "7", "date": "2026-05-24", "title": "Мероприятие 24", "themeId": ["2","3","4"] }
+    { "id": "7", "date": "2026-05-24", "title": "Мероприятие 24", "themeId": ["2","3","4"] },
+     {
+      "id": "8",
+      "date": "2026-10-21",
+      "time": "15:30",
+      "title": "Мир, труд, май",
+      "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eius praesentium dolor obcaecati sint, nemo id. Perspiciatis suscipit beatae delectus distinctio, minus commodi labore non placeat expedita dignissimos quae voluptatibus.",
+      "point": "г. Курган",
+      "themeId": ["1", "2"]
+    },
   ]
 }
