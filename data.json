@@ -1,45 +1,53 @@
-{
-  "themes": [
-    { "id": "1", "name": "ДОБРОВОЛЬЧЕСТВО", "color": "#6B9EBD" },
-    { "id": "2", "name": "МЕДИА", "color": "#05334A" },
-    { "id": "3", "name": "МОЛОДЁЖКА", "color": "#B40023" },
-    { "id": "4", "name": "ПАТРИОТИКА", "color": "#710004" }
-  ],
-  "events": [
-    { "id": "1", "date": "2026-05-01", "title": "Мир, труд, май", "themeId": ["1","2"] },
-    { "id": "2", "date": "2026-05-02", "title": "Мероприятие 2", "themeId": ["2"] },
-    { "id": "3", "date": "2026-05-03", "title": "Мероприятие 3", "themeId": ["3"] },
-    { "id": "4", "date": "2026-05-09", "title": "9 Мая", "themeId": ["1"] },
-    { "id": "4", "date": "2026-05-09", "title": "9 Мая", "themeId": ["1", "3"] },
-    { "id": "5", "date": "2026-05-16", "title": "Мероприятие 16", "themeId": ["2"] },
-    { "id": "6", "date": "2026-05-21", "title": "Мероприятие 21", "themeId": ["3"] },
-    { "id": "7", "date": "2026-05-24", "title": "Мероприятие 24", "themeId": ["2","3","4"] },
-     {
-      "id": "8",
-      "date": "2026-10-20",
-      "time": "15:30",
-      "title": "Шум",
-      "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eius praesentium dolor obcaecati sint, nemo id. Perspiciatis suscipit beatae delectus distinctio, minus commodi labore non placeat expedita dignissimos quae voluptatibus.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eius praesentium dolor obcaecati sint, nemo id. Perspiciatis suscipit beatae delectus distinctio, minus commodi labore non placeat expedita dignissimos quae voluptatibus.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eius praesentium dolor obcaecati sint, nemo id. Perspiciatis suscipit beatae delectus distinctio, minus commodi labore non placeat expedita dignissimos quae voluptatibus.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eius praesentium dolor obcaecati sint, nemo id. Perspiciatis suscipit beatae delectus distinctio, minus commodi labore non placeat expedita dignissimos quae voluptatibus.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eius praesentium dolor obcaecati sint, nemo id. Perspiciatis suscipit beatae delectus distinctio, minus commodi labore non placeat expedita dignissimos quae voluptatibus.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eius praesentium dolor obcaecati sint, nemo id. Perspiciatis suscipit beatae delectus distinctio, minus commodi labore non placeat expedita dignissimos quae voluptatibus.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eius praesentium dolor obcaecati sint, nemo id. Perspiciatis suscipit beatae delectus distinctio, minus commodi labore non placeat expedita dignissimos quae voluptatibus.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eius praesentium dolor obcaecati sint, nemo id. Perspiciatis suscipit beatae delectus distinctio, minus commodi labore non placeat expedita dignissimos quae voluptatibus.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eius praesentium dolor obcaecati sint, nemo id. Perspiciatis suscipit beatae delectus distinctio, minus commodi labore non placeat expedita dignissimos quae voluptatibus.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eius praesentium dolor obcaecati sint, nemo id. Perspiciatis suscipit beatae delectus distinctio, minus commodi labore non placeat expedita dignissimos quae voluptatibus.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eius praesentium dolor obcaecati sint, nemo id. Perspiciatis suscipit beatae delectus distinctio, minus commodi labore non placeat expedita dignissimos quae voluptatibus.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eius praesentium dolor obcaecati sint, nemo id. Perspiciatis suscipit beatae delectus distinctio, minus commodi labore non placeat expedita dignissimos quae voluptatibus.",
-      "point": "г. Курган",
-      "themeId": ["1", "2"]
-    },
-     {
-      "id": "9",
-      "date": "2026-10-21",
-      "time": "15:30",
-      "title": "Шум",
-      "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eius praesentium dolor obcaecati sint, nemo id. Perspiciatis suscipit beatae delectus distinctio, minus commodi labore non placeat expedita dignissimos quae voluptatibus.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eius praesentium dolor obcaecati sint, nemo id. Perspiciatis suscipit beatae delectus distinctio, minus commodi labore non placeat expedita dignissimos quae voluptatibus.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eius praesentium dolor obcaecati sint, nemo id. Perspiciatis suscipit beatae delectus distinctio, minus commodi labore non placeat expedita dignissimos quae voluptatibus.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eius praesentium dolor obcaecati sint, nemo id. Perspiciatis suscipit beatae delectus distinctio, minus commodi labore non placeat expedita dignissimos quae voluptatibus.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eius praesentium dolor obcaecati sint, nemo id. Perspiciatis suscipit beatae delectus distinctio, minus commodi labore non placeat expedita dignissimos quae voluptatibus.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eius praesentium dolor obcaecati sint, nemo id. Perspiciatis suscipit beatae delectus distinctio, minus commodi labore non placeat expedita dignissimos quae voluptatibus.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eius praesentium dolor obcaecati sint, nemo id. Perspiciatis suscipit beatae delectus distinctio, minus commodi labore non placeat expedita dignissimos quae voluptatibus.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eius praesentium dolor obcaecati sint, nemo id. Perspiciatis suscipit beatae delectus distinctio, minus commodi labore non placeat expedita dignissimos quae voluptatibus.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eius praesentium dolor obcaecati sint, nemo id. Perspiciatis suscipit beatae delectus distinctio, minus commodi labore non placeat expedita dignissimos quae voluptatibus.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eius praesentium dolor obcaecati sint, nemo id. Perspiciatis suscipit beatae delectus distinctio, minus commodi labore non placeat expedita dignissimos quae voluptatibus.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eius praesentium dolor obcaecati sint, nemo id. Perspiciatis suscipit beatae delectus distinctio, minus commodi labore non placeat expedita dignissimos quae voluptatibus.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eius praesentium dolor obcaecati sint, nemo id. Perspiciatis suscipit beatae delectus distinctio, minus commodi labore non placeat expedita dignissimos quae voluptatibus.",
-      "point": "г. Курган",
-      "themeId": ["1", "2"]
-    },
-         {
-      "id": "10",
-      "date": "2026-10-22",
-      "time": "15:30",
-      "title": "Шум",
-      "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eius praesentium dolor obcaecati sint, nemo id. Perspiciatis suscipit beatae delectus distinctio, minus commodi labore non placeat expedita dignissimos quae voluptatibus.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eius praesentium dolor obcaecati sint, nemo id. Perspiciatis suscipit beatae delectus distinctio, minus commodi labore non placeat expedita dignissimos quae voluptatibus.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eius praesentium dolor obcaecati sint, nemo id. Perspiciatis suscipit beatae delectus distinctio, minus commodi labore non placeat expedita dignissimos quae voluptatibus.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eius praesentium dolor obcaecati sint, nemo id. Perspiciatis suscipit beatae delectus distinctio, minus commodi labore non placeat expedita dignissimos quae voluptatibus.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eius praesentium dolor obcaecati sint, nemo id. Perspiciatis suscipit beatae delectus distinctio, minus commodi labore non placeat expedita dignissimos quae voluptatibus.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eius praesentium dolor obcaecati sint, nemo id. Perspiciatis suscipit beatae delectus distinctio, minus commodi labore non placeat expedita dignissimos quae voluptatibus.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eius praesentium dolor obcaecati sint, nemo id. Perspiciatis suscipit beatae delectus distinctio, minus commodi labore non placeat expedita dignissimos quae voluptatibus.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eius praesentium dolor obcaecati sint, nemo id. Perspiciatis suscipit beatae delectus distinctio, minus commodi labore non placeat expedita dignissimos quae voluptatibus.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eius praesentium dolor obcaecati sint, nemo id. Perspiciatis suscipit beatae delectus distinctio, minus commodi labore non placeat expedita dignissimos quae voluptatibus.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eius praesentium dolor obcaecati sint, nemo id. Perspiciatis suscipit beatae delectus distinctio, minus commodi labore non placeat expedita dignissimos quae voluptatibus.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eius praesentium dolor obcaecati sint, nemo id. Perspiciatis suscipit beatae delectus distinctio, minus commodi labore non placeat expedita dignissimos quae voluptatibus.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eius praesentium dolor obcaecati sint, nemo id. Perspiciatis suscipit beatae delectus distinctio, minus commodi labore non placeat expedita dignissimos quae voluptatibus.",
-      "point": "г. Курган",
-      "themeId": ["1", "2"]
-    }
-  ]
-}
+[
+  {
+    "id": "1",
+    "title": "Мир, труд, май",
+    "date": "2026-05-01 - 2026-05-01",
+    "theme": "1, 2"
+  },
+  {
+    "id": "2",
+    "title": "Мероприятие 2",
+    "date": "2026-05-02 - 2026-05-02",
+    "theme": "2"
+  },
+  {
+    "id": "3",
+    "title": "Мероприятие 3",
+    "date": "2026-05-03 - 2026-05-03",
+    "theme": "3"
+  },
+  {
+    "id": "4",
+    "title": "9 Мая",
+    "date": "2026-05-09 - 2026-05-09",
+    "theme": "1, 3"
+  },
+  {
+    "id": "5",
+    "title": "Мероприятие 16",
+    "date": "2026-05-16 - 2026-05-16",
+    "theme": "2"
+  },
+  {
+    "id": "6",
+    "title": "Мероприятие 21",
+    "date": "2026-05-21 - 2026-05-21",
+    "theme": "3"
+  },
+  {
+    "id": "7",
+    "title": "Мероприятие 24",
+    "date": "2026-05-24 - 2026-05-24",
+    "theme": "2, 3, 4"
+  },
+  {
+    "id": "8",
+    "title": "Шум",
+    "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eius praesentium dolor obcaecati sint, nemo id. Perspiciatis suscipit beatae delectus distinctio, minus commodi labore non placeat expedita dignissimos quae voluptatibus.\n\nLorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eius praesentium dolor obcaecati sint, nemo id. Perspiciatis suscipit beatae delectus distinctio, minus commodi labore non placeat expedita dignissimos quae voluptatibus.\n\nLorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eius praesentium dolor obcaecati sint, nemo id. Perspiciatis suscipit beatae delectus distinctio, minus commodi labore non placeat expedita dignissimos quae voluptatibus.\n\nLorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eius praesentium dolor obcaecati sint, nemo id. Perspiciatis suscipit beatae delectus distinctio, minus commodi labore non placeat expedita dignissimos quae voluptatibus.",
+    "date": "2026-10-20 - 2026-10-22",
+    "time": "15:30",
+    "location": "г. Курган",
+    "theme": "1, 2"
+  },
+]
