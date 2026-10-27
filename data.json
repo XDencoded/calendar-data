@@ -1,47 +1,5 @@
 [
   {
-    "id": "1",
-    "title": "Мир, труд, май",
-    "date": "2026-05-01 - 2026-05-01",
-    "theme": "1, 2"
-  },
-  {
-    "id": "2",
-    "title": "Мероприятие 2",
-    "date": "2026-05-02 - 2026-05-02",
-    "theme": "2"
-  },
-  {
-    "id": "3",
-    "title": "Мероприятие 3",
-    "date": "2026-05-03 - 2026-05-03",
-    "theme": "3"
-  },
-  {
-    "id": "4",
-    "title": "9 Мая",
-    "date": "2026-05-09 - 2026-05-09",
-    "theme": "1, 3"
-  },
-  {
-    "id": "5",
-    "title": "Мероприятие 16",
-    "date": "2026-05-16 - 2026-05-16",
-    "theme": "2"
-  },
-  {
-    "id": "6",
-    "title": "Мероприятие 21",
-    "date": "2026-05-21 - 2026-05-21",
-    "theme": "3"
-  },
-  {
-    "id": "7",
-    "title": "Мероприятие 24",
-    "date": "2026-05-24 - 2026-05-24",
-    "theme": "2, 3, 4"
-  },
-  {
     "id": "8",
     "title": "Шум",
     "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eius praesentium dolor obcaecati sint, nemo id. Perspiciatis suscipit beatae delectus distinctio, minus commodi labore non placeat expedita dignissimos quae voluptatibus.\n\nLorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eius praesentium dolor obcaecati sint, nemo id. Perspiciatis suscipit beatae delectus distinctio, minus commodi labore non placeat expedita dignissimos quae voluptatibus.\n\nLorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eius praesentium dolor obcaecati sint, nemo id. Perspiciatis suscipit beatae delectus distinctio, minus commodi labore non placeat expedita dignissimos quae voluptatibus.\n\nLorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eius praesentium dolor obcaecati sint, nemo id. Perspiciatis suscipit beatae delectus distinctio, minus commodi labore non placeat expedita dignissimos quae voluptatibus.",
@@ -49,5 +7,5 @@
     "time": "15:30",
     "location": "г. Курган",
     "theme": "1, 2"
-  },
+  }
 ]
