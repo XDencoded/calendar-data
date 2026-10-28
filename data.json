@@ -17,4 +17,13 @@
     "location": "г. Курган",
     "theme": "1, 2"
   },
+      {
+    "id": "10",
+    "title": "какоето123 мероприятие",
+    "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eius praesentium dolor obcaecati sint, nemo id. Perspiciatis suscipit beatae delectus distinctio, minus commodi labore non placeat expedita dignissimos quae voluptatibus.\n\nLorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eius praesentium dolor obcaecati sint, nemo id. Perspiciatis suscipit beatae delectus distinctio, minus commodi labore non placeat expedita dignissimos quae voluptatibus.\n\nLorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eius praesentium dolor obcaecati sint, nemo id. Perspiciatis suscipit beatae delectus distinctio, minus commodi labore non placeat expedita dignissimos quae voluptatibus.\n\nLorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eius praesentium dolor obcaecati sint, nemo id. Perspiciatis suscipit beatae delectus distinctio, minus commodi labore non placeat expedita dignissimos quae voluptatibus.",
+    "date": "2026-10-25 - 2026-10-25",
+    "time": "15:30",
+    "location": "г. Курган",
+    "theme": "1, 2"
+  }
 ]
